@@ -10,7 +10,7 @@
     <style name="CustomedtabRow" >
         <item name="android:layout_width">wrap_content</item>
         <item name="android:layout_height">wrap_content</item>
-        <item name="android:background">"@color/abc_input_method_navigation_guard</item>
+        <item name="android:background">@color/abc_input_method_navigation_guard</item>
         <item name="android:layout_margin">@dimen/table_row_margin</item>
         <item name="android:paddingLeft">@dimen/activity_horizontal_margin</item>
         <item name="android:paddingRight">@dimen/activity_horizontal_margin</item>

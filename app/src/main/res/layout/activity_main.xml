@@ -35,6 +35,7 @@
             <TableRow style="@style/CustomedtabRow">
                 <Button
                     android:text="@string/popular_movies"
+                    android:id="@+id/bt_popular_movie"
                     style="@style/CustomedButton"/>
             </TableRow>
             <TableRow style="@style/CustomedtabRow">
